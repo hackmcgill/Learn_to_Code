@@ -1,8 +1,13 @@
 # Learn\_to\_Code
 All of the resources for Learn to Code™
 ***
+###Where to Start:
+(check images folder for full size chart)
 
-###For First-Time Coders:
+<!--![alt-text](images/Learn-to-Code Flow Chart.png)-->
+<img src="images/Learn-to-Code Flow Chart.png" "style: width=650px">
+
+###Resources:
 - <a href="https://www.codecademy.com"><img src="http://s3.amazonaws.com/codecademy-blog/assets/logo_blue_dark.png" "style: width= 100px"></a> (https://www.codecademy.com)
 
 - <a href="http://learnpython.org/"><img src="http://www.learnpython.org/static/img/logos/learnpython.png" "style: width= 100px"></a>
@@ -28,6 +33,10 @@ All of the resources for Learn to Code™
 
 - <a href="http://learn-perl.org"><img src="http://www.learn-perl.org/static/img/logos/learn-perl.png" "style: width=100px"></a>
 (http://learn-perl.org)
+
+- <a href="https://www.haskell.org/"><img src="https://raw.githubusercontent.com/docker-library/docs/master/haskell/logo.png" "style: width=100px"></a>(https://www.haskell.org/)
+
+- <a href="http://tryobjectivec.codeschool.com/"><img src="http://tryobjectivec.codeschool.com/assets/logo-course-8f54fa0be6e698f78bc2766bab61032a.svg" "style: width=100px"></a>(http://tryobjectivec.codeschool.com/)
 
 - <a href="https://github.com/hack101"><img src="https://avatars2.githubusercontent.com/u/8978217?v=3&s=200" "style: width=50px"></a>
 (https://github.com/hack101)
